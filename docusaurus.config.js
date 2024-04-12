@@ -13,7 +13,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://macbudkowski.github.io",
+  url: "https://kiwinews.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/kiwi-docs/",
@@ -82,7 +82,7 @@ const config = {
             position: "left",
           },
           {
-            href: "https://https://github.com/attestate/kiwistand",
+            href: "https://github.com/attestate/kiwistand",
             label: "GitHub",
             position: "right",
           },
